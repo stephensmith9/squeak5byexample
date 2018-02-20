@@ -25,15 +25,15 @@ To start or help with a new translation project, please:
 
 This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported [license](http://creativecommons.org/licenses/by-sa/3.0/).
 
-You are free to:
+_You are free to:_
 
 - Share -- to copy, distribute and transmit the work
 - Remix -- to adapt the work
 
-under the following conditions:
+_under the following conditions:_
 
-- You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work)
-- If you alter, transform, or build upon this work, you may distribute the resulting work on under the same, similar or a compatible license
+- **Attribution** You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work)
+- **Share Alike** If you alter, transform, or build upon this work, you may distribute the resulting work on under the same, similar or a compatible license
 - For any reuse or distribution, you must make clear to others the license terms of this work
 - Any of the conditions can be waived if you get permission from the copyright holder
 - Nothing in this license impairs or restricts the author's moral rights
