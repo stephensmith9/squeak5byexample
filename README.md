@@ -15,8 +15,8 @@ See S6BE-TODO.txt for the status of tasks not yet completed for S6BE.
 
 To contribute to the book, please:
 
-- clone the repository
-- publish changes to your copy of the repo and issue a pull request
+- clone the **wiki** repository (not this one!)
+- publish changes to your copy of the wiki and issue a pull request
 
 To start or help with a new translation project, please:
 
