@@ -8,4 +8,4 @@ Why? To make it easier for people to contribute. TeX is a fantastic system but r
 
 3. Review the content for suggested updates
 
-4. Pull new information from the Pharo project that applies to Squeak 6.0
+4. Pull new information from the Pharo project (especially Pharo by Example) that applies to Squeak 6.0
