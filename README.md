@@ -7,6 +7,8 @@ French, German, and Korean versions also available. See [here](http://github.com
 
 Every attempt will be made to push updates and improvements to the English version where possible (sorry, that's my native language so any translated versions will have to be handled by others).
 
+To view the actual content of this updated book, please visit the wiki page of this repo.
+
 See S6BE-TODO.txt for the status of tasks not yet completed for S6BE.
 
 ## Contributing

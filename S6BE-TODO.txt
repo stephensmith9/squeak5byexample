@@ -1,3 +1,5 @@
+Ongoing: fix broken links as they are encountered in the original book's PDF.
+
 1. Convert existing Squeak by Example LaTeX to Markdown
 
 Why? To make it easier for people to contribute. TeX is a fantastic system but requires a huge download and investment in time to learn how to configure and use the environment. Great for authors wanting to distribute copies of their book. For this project however, it's overkill. This book is intended to be viewed on GitHub. No plans exist yet to publish to any other format.
