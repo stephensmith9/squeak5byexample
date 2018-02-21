@@ -3,7 +3,7 @@ This is the source repository of the *Squeak 6 by Example* book. This is an atte
 
 The public web site of the original Squeak by Example book was [here](http://squeakbyexample.org/) but it is now defunct and temporarily redirects to the GitHub repo [here](https://github.com/SquareBracketAssociates/SqueakByExample-english) for the English version.
 
-French, German, and Korean versions also available. See [here](http://github.com/SquareBracketAssociates/) for those versions and possibly others.
+French, German, and Korean versions of the original book are available [here](http://github.com/SquareBracketAssociates/).
 
 Every attempt will be made to push updates and improvements to the English version where possible (sorry, that's my native language so any translated versions will have to be handled by others).
 
