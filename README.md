@@ -5,7 +5,7 @@ The public web site of the original Squeak by Example book was [here](http://squ
 
 French, German, and Korean versions of the original book are available [here](http://github.com/SquareBracketAssociates/).
 
-Every attempt will be made to push updates and improvements to the English version where possible (sorry, that's my native language so any translated versions will have to be handled by others).
+Every attempt will be made to push updates and improvements to the English version where possible (sorry, that's the only language I speak so any translated versions will have to be handled by others).
 
 To view the actual content of this updated book, please visit the wiki page of this repo.
 
