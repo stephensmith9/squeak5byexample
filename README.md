@@ -1,5 +1,5 @@
 # Squeak 6 by Example
-This is the source repository of the *Squeak 6 by Example* book. This is an attempt to update the original *Squeak by Example* book by Andrew P. Black, Stéphane Ducasse, Oscar Nierstrasz, Damien Pollet, Damien Cassou, and Marcus Denker. It will be updated for Squeak 6.0 and later, and moves away from LaTeX to use GitHub Flavored Markdown, with the intent to make contributing to the book easier. There are no plans at the moment to publish to any other format.
+This is the source repository of the *Squeak 6 by Example* book. This is an attempt to update the original *Squeak by Example* book by Andrew P. Black, Stéphane Ducasse, Oscar Nierstrasz, Damien Pollet, Damien Cassou, and Marcus Denker, to Squeak 6.0 or later. It moves the source away from LaTeX to use GitHub Flavored Markdown, with the intent to make contributing to the book easier. There are no plans at the moment to publish to any other format.
 
 The public web site of the original Squeak by Example book was [here](http://squeakbyexample.org/) but it is now defunct and temporarily redirects to the GitHub repo [here](https://github.com/SquareBracketAssociates/SqueakByExample-english) for the English version.
 
