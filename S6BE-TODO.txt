@@ -1,11 +1,38 @@
 Ongoing: fix broken links as they are encountered in the original book's PDF.
 
-1. Convert existing Squeak by Example LaTeX to Markdown
+Adopting a 2-Phase approach:
 
-Why? To make it easier for people to contribute. TeX is a fantastic system but requires a huge download and investment in time to learn how to configure and use the environment. Great for authors wanting to distribute copies of their book. For this project however, it's overkill. This book is intended to be viewed on GitHub. No plans exist yet to publish to any other format.
+Phase 1: convert existing content to Markdown
+Phase 2: update existing content
 
-2. Update screenshots to Squeak 6.0
+Chapter 1 will be the exception. We will combine both phases to get an
+idea of how much effort will be required to update chapter-by-chapter.
 
-3. Review the content for suggested updates
+Why convert from LaTeX? To make it easier for people to contribute. TeX is a
+fantastic system but requires a huge download and investment in time to learn
+how to configure and use the environment. Great for authors wanting to dist-
+ribute copies of their book. For this project however, it's overkill. This book
+is intended to be viewed initially on GitHub. No plans exist yet to publish to
+any other format.
 
-4. Pull new information from the Pharo project (especially Pharo by Example) that applies to Squeak 6.0
+1. Chapter 1 conversion to Markdown and update simultaneously - in progress
+
+2. Add bibliography
+
+3. Review the rest of the content for suggested updates. Pull new information
+   from the Pharo project (especially the updated Pharo by Example) that
+   applies to Squeak 6.0.
+
+4.  Chapter 2 conversion to Markdown
+5.  Chapter 3 conversion to Markdown
+6.  Chapter 4 conversion to Markdown
+7.  Chapter 5 conversion to Markdown
+8.  Chapter 6 conversion to Markdown
+9.  Chapter 7 conversion to Markdown
+10. Chapter 8 conversion to Markdown
+11. Chapter 9 conversion to Markdown
+12. Chapter 10 conversion to Markdown
+13. Chapter 11 conversion to Markdown
+14. Chapter 12 conversion to Markdown
+15. Appendices conversion to Markdown
+
