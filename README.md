@@ -20,7 +20,7 @@ To contribute to the book, please:
 
 To start or help with a new translation project, please:
 
-- email me at stephen1965smith at gmail.com and let me know which language you are interested in translating to and I will create a new repo giving you write access (or add you to an existing one)
+- clone the wiki repo, start your translation and provide a link from here to your translated wiki repo
 - be patient as it will take some time for the initial content to be moved from LaTeX to Markdown in order for translation to begin
 
 # License
