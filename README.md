@@ -7,7 +7,7 @@ French, German, and Korean versions of the original book are available [here](ht
 
 Every attempt will be made to push updates and improvements to the English version where possible (sorry, that's the only language I speak so any translated versions will have to be handled by others).
 
-> To view the actual content of this updated book, please visit the wiki page of this repo.
+> To view the actual content of this updated book, please visit the [wiki page](https://github.com/stephensmith9/squeak6byexample/wiki) of this repo.
 
 See S6BE-TODO.txt for the status of tasks not yet completed for S6BE.
 
@@ -42,5 +42,5 @@ _under the following conditions:_
 
 ## Disclaimer
 
-Your fair dealing and other rights are in no way affected by the above. This is a human-readable summary of the Legal Code (the full license).
+Your fair dealing and other rights are in no way affected by the above. This is a human-readable summary of the Legal Code (the full [license](https://creativecommons.org/licenses/by-sa/3.0/legalcode)).
 
