@@ -1,4 +1,4 @@
-The images folder is for images that are used in the github documenation files.
+The images folder is for images that are used in the github documentation files.
 
-For images used in the actual book see the figures folder.
+For images to be used in the actual book use the figures folder.
 
