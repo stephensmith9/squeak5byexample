@@ -1,0 +1,4 @@
+The figures folder is used to hold all images that appear in the book.
+
+The images folder is for images used in the github documenation - do not use the images folder to hold images for the book.
+
