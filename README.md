@@ -1,31 +1,8 @@
 # Squeak 6 by Example
 
-This is the source repository of the _Squeak 6 by Example_ book. This is an attempt to update the original _Squeak by Example_ book by Andrew P. Black, Stéphane Ducasse, Oscar Nierstrasz, Damien Pollet, Damien Cassou, and Marcus Denker, to Squeak 6.0 and later. It moves the source away from LaTeX to use GitHub Flavored Markdown, with the intent to make contributing to the book easier. There are no plans at the moment to publish to any other format.
+This is an attempt to update the original _Squeak by Example_ book by Andrew P. Black, Stéphane Ducasse, Oscar Nierstrasz, Damien Pollet, Damien Cassou, and Marcus Denker, to Squeak 6.0 and later. 
 
-The public web site of the original Squeak by Example book was [here](http://squeakbyexample.org/) but it is now defunct and temporarily redirects to the GitHub repo [here](https://github.com/SquareBracketAssociates/SqueakByExample-english) for the English version.
-
-French, German, and Korean versions of the original book are available [here](http://github.com/SquareBracketAssociates/) at the SquareBracketAssociates GitHub repo.
-
-No attempt will be made to push updates and improvements to the SquareBracketAssociates repo due to the amount of effort required to edit the original LaTeX source.
-
-> To view the actual content of this updated book, please visit the [wiki page](https://github.com/stephensmith9/squeak6byexample/wiki) of this repo.
-
-See S6BE-TODO.txt for the status of tasks not yet completed for S6BE.
-
-## Contributing
-
-To report errata for this updated version:
-
-- open an issue using the GitHub issue tracker
-
-To contribute to the book, please:
-
-- clone the **wiki** repository (not this one!)
-- publish changes to your copy of the wiki and issue a pull request
-
-To start or help with a new translation project, please:
-
-- be patient as it will take some time for the initial content to be moved from LaTeX to Markdown in order for translation to begin
+It has been moved to a GitBook at https://www.gitbook.com/book/stephensmith9/squeak-6-by-example
 
 # License
 
