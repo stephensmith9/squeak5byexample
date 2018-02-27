@@ -4,6 +4,8 @@ This is an attempt to update the original _Squeak by Example_ book by Andrew P. 
 
 It has been moved to a GitBook at https://www.gitbook.com/book/stephensmith9/squeak-6-by-example
 
+(a sample of the conversion can be seen on the [wiki](https://github.com/stephensmith9/squeak6byexample/wiki) for this repo)
+
 # License
 
 This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported [license](http://creativecommons.org/licenses/by-sa/3.0/).
