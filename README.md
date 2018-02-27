@@ -1,17 +1,22 @@
 # Squeak 6 by Example
-This is the source repository of the *Squeak 6 by Example* book. This is an attempt to update the original *Squeak by Example* book by Andrew P. Black, Stéphane Ducasse, Oscar Nierstrasz, Damien Pollet, Damien Cassou, and Marcus Denker, to Squeak 6.0 or later. It moves the source away from LaTeX to use GitHub Flavored Markdown, with the intent to make contributing to the book easier. There are no plans at the moment to publish to any other format.
+
+This is the source repository of the _Squeak 6 by Example_ book. This is an attempt to update the original _Squeak by Example_ book by Andrew P. Black, Stéphane Ducasse, Oscar Nierstrasz, Damien Pollet, Damien Cassou, and Marcus Denker, to Squeak 6.0 and later. It moves the source away from LaTeX to use GitHub Flavored Markdown, with the intent to make contributing to the book easier. There are no plans at the moment to publish to any other format.
 
 The public web site of the original Squeak by Example book was [here](http://squeakbyexample.org/) but it is now defunct and temporarily redirects to the GitHub repo [here](https://github.com/SquareBracketAssociates/SqueakByExample-english) for the English version.
 
-French, German, and Korean versions of the original book are available [here](http://github.com/SquareBracketAssociates/).
+French, German, and Korean versions of the original book are available [here](http://github.com/SquareBracketAssociates/) at the SquareBracketAssociates GitHub repo.
 
-Every attempt will be made to push updates and improvements to the English version where possible (sorry, that's the only language I speak so any translated versions will have to be handled by others).
+No attempt will be made to push updates and improvements to the SquareBracketAssociates repo due to the amount of effort required to edit the original LaTeX source.
 
 > To view the actual content of this updated book, please visit the [wiki page](https://github.com/stephensmith9/squeak6byexample/wiki) of this repo.
 
 See S6BE-TODO.txt for the status of tasks not yet completed for S6BE.
 
 ## Contributing
+
+To report errata for this updated version:
+
+- open an issue using the GitHub issue tracker
 
 To contribute to the book, please:
 
@@ -20,7 +25,6 @@ To contribute to the book, please:
 
 To start or help with a new translation project, please:
 
-- clone the wiki repo, start your translation and provide a link from here to your translated wiki repo
 - be patient as it will take some time for the initial content to be moved from LaTeX to Markdown in order for translation to begin
 
 # License
