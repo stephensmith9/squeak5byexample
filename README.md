@@ -1,4 +1,4 @@
-# Squeak 6 by Example
+# Squeak 5 by Example
 
 This is an attempt to update the original _Squeak by Example_ book by Andrew P. Black, Stéphane Ducasse, Oscar Nierstrasz, Damien Pollet, Damien Cassou, and Marcus Denker, to Squeak 5.x and later. 
 
