@@ -15,13 +15,13 @@ ribute copies of their book. For this project however, it's overkill. This book
 is intended to be viewed initially on GitHub. No plans exist yet to publish to
 any other format.
 
-1. Chapter 1 conversion to Markdown and update simultaneously - in progress
+1. Chapter 1 conversion to Markdown and update simultaneously - COMPLETE (on GitBook)
 
 2. Add bibliography
 
 3. Review the rest of the content for suggested updates. Pull new information
    from the Pharo project (especially the updated Pharo by Example) that
-   applies to Squeak 6.0.
+   applies to Squeak 5.x.
 
 4.  Chapter 2 conversion to Markdown
 5.  Chapter 3 conversion to Markdown
