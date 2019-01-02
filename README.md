@@ -1,8 +1,8 @@
 # Squeak 6 by Example
 
-This is an attempt to update the original _Squeak by Example_ book by Andrew P. Black, Stéphane Ducasse, Oscar Nierstrasz, Damien Pollet, Damien Cassou, and Marcus Denker, to Squeak 6.0 and later. 
+This is an attempt to update the original _Squeak by Example_ book by Andrew P. Black, Stéphane Ducasse, Oscar Nierstrasz, Damien Pollet, Damien Cassou, and Marcus Denker, to Squeak 5.x and later. 
 
-It has been moved to a GitBook at https://www.gitbook.com/book/stephensmith9/squeak-6-by-example
+It has been moved to a GitBook at https://www.gitbook.com/book/stephensmith9/squeak-5-by-example
 
 (a sample of the conversion can be seen on the [wiki](https://github.com/stephensmith9/squeak6byexample/wiki) for this repo)
 
