@@ -5,6 +5,7 @@ This is an attempt to update the original _Squeak by Example_ book by Andrew P. 
 It has been moved to a GitBook at https://www.gitbook.com/book/stephensmith9/squeak-5-by-example
 EDIT: gitbook removed my content without any warning - and unfortunately I did not make a local backup copy. Won't be using gitbook ever again. :-(
 
+EDIT: found a copy here: https://stephensmith9.gitbooks.io/squeak-5-by-example/content/
 
 # License
 
